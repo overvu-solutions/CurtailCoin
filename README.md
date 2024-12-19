@@ -1,7 +1,7 @@
 # CurtailCoin
 A web application that converts curtailed wind energy data into potential Bitcoin mining revenue, illustrating how much BTC could have been earned if wasted electricity were used to power mining.
 
-## Detailed desctiption
+## Detailed description
 Next.js application that visualizes wind energy curtailment data from the Elexon BMRS API.
 It expands upon the concept demonstrated by [the Wasted Wind site](https://wastedwind.energy/). Whereas Wasted Wind shows MWh of curtailed wind energy, our app estimates how much Bitcoin could have been mined from that lost energy. By integrating real-time or recent curtailed wind data and applying a Bitcoin mining conversion algorithm, the application provides an "opportunity loss" metric in terms of BTC.
 
