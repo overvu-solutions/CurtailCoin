@@ -28,13 +28,13 @@ Curiosity about how “green” Bitcoin mining could be if it is integrated into
 - Interval Detail: Show per hour (aggregate half-hour settlement period data), indicating MWh curtailed and BTC equivalent.
 
 ## Core Architecture:
-Next.js frontend framework
-React for UI components
-API calls to Elexon API (data.elexon.co.uk/bmrs/api/v1/)
-Vercel for deployment
-tailwind CSS for styling
-recharts for data visualization
-webpack for bundling
+- Next.js frontend framework
+- React for UI components
+- API calls to Elexon API (data.elexon.co.uk/bmrs/api/v1/)
+- Vercel for deployment
+- tailwind CSS for styling
+- recharts for data visualization
+- webpack for bundling
 
 ## Key Features:
 ### Date selection interface
