@@ -23,7 +23,7 @@ Each data point represents energy that was available but not used (Volume in MWh
 ### Data comparison and analysis functionality
 
 ## Main API Endpoints:
-/bmrs/api/v1/balancing/settlement/stack/all/bid/{date}/{period}
-/bmrs/api/v1/balancing/settlement/stack/all/offer/{date}/{period}
+- /bmrs/api/v1/balancing/settlement/stack/all/bid/{date}/{period}
+- /bmrs/api/v1/balancing/settlement/stack/all/offer/{date}/{period}
 
 https://bmrs.elexon.co.uk/api-documentation
